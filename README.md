@@ -54,3 +54,8 @@ Do not use any content for unauthorized testing or offensive activities.
 ## Author
 
 Independent security researcher focused on mobile application hardening and defensive security testing.
+
+## Notes
+
+These checklists are based on practices I regularly apply when hardening Android and iOS applications under my control.  
+I update them occasionally as I encounter common issues in personal and authorized projects.

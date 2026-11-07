@@ -6,7 +6,6 @@ This repository documents practical defensive techniques I use when hardening ap
 
 ## Overview
 
-Focus areas:
 - Android application hardening
 - iOS application hardening
 - Anti-tampering & integrity protection
@@ -17,7 +16,7 @@ All content is strictly for **defensive security purposes**.
 
 ## Android Hardening Checklist
 
-- [ ] Code obfuscation (R8 / ProGuard / commercial tools)
+- [ ] Code obfuscation (R8 / ProGuard)
 - [ ] Root & emulator detection
 - [ ] Basic anti-debugging and anti-instrumentation checks
 - [ ] Certificate pinning
@@ -31,7 +30,7 @@ All content is strictly for **defensive security purposes**.
 
 - [ ] Symbol stripping and basic obfuscation
 - [ ] Jailbreak detection
-- [ ] Anti-debugging checks (ptrace, sysctl, etc.)
+- [ ] Anti-debugging checks
 - [ ] Certificate pinning
 - [ ] Keychain + Data Protection classes
 - [ ] Runtime integrity verification
